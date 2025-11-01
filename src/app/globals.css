@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+    --font-inter: "Inter", sans-serif;
+    --font-helvetica: "Helvetica", sans-serif;
+}
+
+.font-inter {
+    font-family: var(--font-inter);
+}
+
+.font-helvetica {
+    font-family: var(--font-helvetica);
+}
+
+body {
+    font-family: var(--font-inter);
+    background-color: black;
+    color: white;
+}
+
