@@ -53,8 +53,8 @@ export default  function Hero () {
                 <div className="mt-100 mr-5">
                     <div className="font-light sm:hidden">
                         <p className="text-[10px] text-right">Unlock your digital potential with The Social production agency. We offer<br/>
-                            bespoke solution in web development, digital marketing, and creative design<br/>
-                            to elevate your online presence and drive measurable results.</p>
+                            bespoke solution in web development, digital marketing, and creative <br/>
+                            design to elevate your online presence and drive measurable results.</p>
 
                         <div className="mt-5 flex items-center space-x-2 ml-50">
                             <div className="font-light px-4 py-2 bg-white text-black text-[10px] w-fit rounded-[50px] cursor-pointer transform hover:bg-gray-100">

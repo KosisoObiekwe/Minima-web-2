@@ -3,7 +3,7 @@ import {FaArrowRight} from "react-icons/fa6";
 
 export default function AboutPage () {
     return(
-        <section className="mt-30 sm:mt-160 md:mt-180 lg:mt-220 xl:mt-240">
+        <section className="mt-30 sm:mt-40 md:mt-50 lg:mt-80 xl:mt-100 2xl:mt-140">
             <div>
                 <div className="ml-5 md:ml-25">
                     <p className="font-light lg:text-left text-[50px] xl:text-[104px] tracking-[-5px]">ABOUT</p>
