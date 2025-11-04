@@ -30,8 +30,8 @@ export default  function Hero () {
                                 <p className="text-[50px] sm:text-[80px] md:text-[90px] lg:text-[105px] xl:text-[130px] 2xl:text-[150px] font-light">AGENCY</p>
                             </div>
 
-                            <div className="hidden sm:block absolute font-light top-90 left-4 sm:left-70 sm:top-90 md:left-93 lg:top-105 lg:left-130 xl:top-130 xl:left-160 2xl:top-150 2xl:left-200">
-                                <p className="text-[10px] lg:text-[14px] xl:text-[18px] text-center sm:text-left md:text-left lg:text-left">Unlock your digital potential with The Social production agency. We offer<br/>
+                            <div className="hidden sm:block absolute font-light top-90 left-4 sm:left-70 sm:top-90 md:left-85 lg:top-105 lg:left-130 xl:top-130 xl:left-160 2xl:top-150 2xl:left-200">
+                                <p className="text-[10px] md:text-[12px] lg:text-[14px] xl:text-[18px] text-center sm:text-left md:text-left lg:text-left">Unlock your digital potential with The Social production agency. We offer<br/>
                                     bespoke solution in web development, digital marketing, and creative design<br/>
                                     to elevate your online presence and drive measurable results.</p>
 
@@ -48,7 +48,8 @@ export default  function Hero () {
                         </div>
                     </div>
                 </div>
-{/*MOBILE*/}
+
+                {/*MOBILE*/}
 
                 <div className="mt-100 mr-5">
                     <div className="font-light sm:hidden">

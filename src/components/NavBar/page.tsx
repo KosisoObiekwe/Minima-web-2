@@ -13,7 +13,7 @@ export default function NavBar () {
                     </div>
 
                     <div>
-                        <ul className="hidden lg:block lg:flex lg:space-x-10 xl:space-x-20 2xl:space-x-20 ">
+                        <ul className="hidden lg:block lg:flex lg:space-x-12 xl:space-x-20 2xl:space-x-20 ">
                             {navLinks.map((link, index) => (
                                 <li key={link.id} className={`text-[18px] font-light tracking-[-1px] transform duration-300 hover:-translate-y-0.5`}>
                                     <a href={`/${link.id}`}>{link.label}</a>
