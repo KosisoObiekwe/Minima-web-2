@@ -8,7 +8,7 @@ export default function AboutPage () {
 
                 <div className="relative z-20 sm:ml-10 ml-5 md:ml-15 lg:ml-15 xl:ml-15 2xl:ml-25 lg:flex lg:space-x-20 xl:space-x-25 2xl:space-x-45">
                     <div>
-                        <p className="font-light text-[50px] lg:text-left lg:text-[80px] xl:text-[104px] tracking-[-5px]">ABOUT</p>
+                        <p className="font-light text-[50px] lg:text-left lg:text-[70px] xl:text-[90px] tracking-[-5px]">ABOUT</p>
                         <p className="hidden text-[12px] mt-5 sm:block font-light lg:text-[14px] xl:text-[18px] lg:whitespace-nowrap xl:whitespace-nowrap 2xl:whitespace-normal">The Social is a forward-thinking web development company dedicated to transforming<br/>
                             your digital vision into reality, With a focus on a creativity and innovation, we specialize in <br />
                             creating bespoke websites that captivates audiences and drive results, Whether you’re <br />
